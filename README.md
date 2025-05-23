@@ -1,60 +1,106 @@
-# Halo! 👋 Saya Full-Stack Developer 🚀
+# 👋 Hello, I'm Wahyu Sudrajad — A Passionate Full-Stack Developer 🚀
 
-Saya adalah seorang murid dan full-stack developer dengan semangat tinggi untuk terus belajar dan berkembang di dunia teknologi. Saya menguasai berbagai bahasa pemrograman seperti JavaScript, Python, PHP, dan Java, serta memiliki pengalaman di pengembangan front-end (React, Vue, Next.js) maupun back-end (Node.js, Express, Laravel).
+I'm a student and full-stack developer with a strong passion for building meaningful, impactful, and scalable web applications. I specialize in both front-end and back-end technologies and have experience with a wide range of programming languages and tools.
 
-## Pengalaman & Prestasi ✨
+I've participated in various **workshops, webinars, and tech competitions** hosted by industry leaders such as:
 
-- Mengikuti berbagai workshop, webinar, dan kompetisi teknologi yang diselenggarakan oleh:
-  - **Amazon**
-  - **Google Developer**
-  - **IDCloudHost**
-  - **YouTube**
-  - **NASA**
-  - **GitHub**
-  - **Microsoft Copilot**
-  - **AWS**
-  - **Heroku**
-  - **ChatGPT**
-- Aktif berkontribusi di komunitas developer lokal dan internasional
-- Memperoleh sertifikat dari Google, Microsoft, dan AWS
-- Juara 2 Hackathon Nasional 2024 oleh IDCloudHost
+- 🌍 Amazon Web Services (AWS)
+- 🌐 Google Developer & YouTube
+- ☁️ Microsoft (Copilot, Azure)
+- 🚀 NASA
+- 💻 GitHub
+- 🖥️ IDCloudHost
+- 🧠 OpenAI (ChatGPT)
+- 🌍 Heroku
 
-## Keahlian Utama 🔥
+## 🏆 My Skills & Technologies
 
-- **Front-End:** HTML, CSS, JavaScript, React, Vue, Next.js, Tailwind
-- **Back-End:** Node.js, Express, Laravel, PHP, Python (Flask/Django)
-- **Database:** MySQL, MongoDB, Firebase
-- **Cloud & DevOps:** AWS, Heroku, Vercel, GitHub Actions
-- **Tools:** Git, Docker, Postman, Figma
+Here’s an overview of the technologies I work with:
 
-## Proyek Unggulan 📂
+### 📝 Languages
+TypeScript · JavaScript · Python · PHP · Java
 
-- **Aplikasi Manajemen Tugas**: Web app berbasis React & Node.js untuk kolaborasi tim
-- **Website Portfolio**: Website personal dengan Next.js & TailwindCSS
-- **API Chatbot**: Bot interaktif dengan Python & NLP, terintegrasi WhatsApp
+### ⚡ Frontend
+React · Vue · Next.js · Redux · Tailwind CSS · Bootstrap · Material UI · HTML5 · CSS3
 
-## Komitmen & Visi 🌱
+### ⚙️ Backend
+Node.js · Express.js · Laravel · Flask · Django · REST API · WebSockets · Socket.io
 
-Saya berkomitmen untuk:
-- Terus meningkatkan kemampuan teknis & soft skill
-- Aktif berbagi ilmu di komunitas
-- Siap menghadapi tantangan baru serta berkontribusi dalam pengembangan teknologi di Indonesia dan dunia
+### 💾 Databases
+MongoDB · PostgreSQL · MySQL · Firebase
+
+### ☁️ Cloud & DevOps
+AWS · Heroku · Vercel · Docker · GitHub Actions · CI/CD
+
+### 🛠 Tools & Platforms
+Git · GitHub · Postman · Figma · ChatGPT API · Stripe · Firebase Auth
 
 ---
 
-> “Jadilah developer yang tidak hanya menguasai teknologi, tapi juga bermanfaat bagi sekitar.”  
+## 🌱 Currently Learning
+
+I'm always improving my skills and learning new technologies. Currently, I’m focused on:
+
+- 📊 Mastering **GraphQL** for efficient data querying
+- 🐳 Exploring **Docker & Kubernetes** for containerization and orchestration
+- 🧠 Diving into **AI/ML concepts** to build smarter applications
 
 ---
 
-## Kontak & Media Sosial 🌐
-- [GitHub](https://github.com/xr-wahyuu)
-- [LinkedIn](https://linkedin.com/in/xr-wahyuu)
-- [Email](mailto:xrwahyuu@gmail.com)
+## 💞️ Looking to Collaborate On
+
+I'm open to collaborating on projects that solve real-world problems, especially in:
+
+- 💼 SaaS applications
+- 📡 Real-time communication tools
+- ☁️ Cloud-native apps using AWS & Docker
+- 🌍 Open-source contributions
 
 ---
 
-## Animasi & Stiker Penutup
+## 🏅 Achievements & Certifications
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
+- 🏅 **AWS Certified Developer (Associate)**  
+  Certified in building and managing cloud-based applications with AWS
 
-✨🚀👨‍💻🔥💡🙌🎉
+- 🏆 **Top GitHub Contributor**  
+  Contributed to over 10+ open-source projects with 500+ stars
+
+- 🔝 **Top 100 Global Contributor**  
+  Recognized among top contributors in open-source communities
+
+- 🧠 **CodeWars - 4 kyu**  
+  Solved 200+ algorithmic challenges on CodeWars
+
+- 🎉 **Hacktoberfest 2023 - Platinum Contributor**  
+  Awarded for outstanding contributions to open-source
+
+---
+
+## 🎖 Badges & Medals
+
+Here are some badges I’ve earned:
+
+- ✅ AWS Certified Developer
+- 🌟 Top GitHub Contributor
+- 🥈 Hacktoberfest Platinum
+- 🧠 CodeWars 4 Kyu
+
+---
+
+## 📈 GitHub Stats
+
+![Wahyusudrajad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xr-wahyuu&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xr-wahyuu&layout=compact&theme=radical)
+
+---
+
+## 😄 Pronouns
+He/Him
+
+---
+
+## ⚡ Fun Fact
+
+When I’m not coding, I enjoy **photography**, **exploring the outdoors**, and **tasting unique coffee** from around the world. I’m also a passionate traveler constantly looking for the next
