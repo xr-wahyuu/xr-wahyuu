@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://github.com/xr-wahyuu/xr-wahyuu/img/benner.png" alt="Wahyu Sudrajad - Full-Stack Developer" width="100%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRkcHRxcW05aW0yMmVqd2Q3Zzk1Y2FiZ2M5eHlpMDJ1bnRid3FwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIl0CL2kd7sICgfqk0/giphy.gif" alt="Wahyu Sudrajad - Full-Stack Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Wahyu Sudrajad</h1>
@@ -92,9 +92,9 @@
 
 ## 📫 Contact Me
 
-- 🌐 Portfolio: [wahyusudrajad.dev](https://wahyusudrajad.dev)
-- 💼 LinkedIn: [linkedin.com/in/wahyusudrajad](https://linkedin.com/in/wahyusudrajad)
-- 🐦 Twitter: [@wahyusudrajad](https://twitter.com/wahyusudrajad)
+- 🌐 Portfolio: [xr-wahyuu.github.io](https://xr-wahyuu.github.io/)
+- 💼 LinkedIn: [linkedin.com/in/xr-wahyuu](https://xr-wahyuu.github.io/)
+- 🐦 Twitter: [@xr-wahyuu](https://xr-wahyuu.github.io/)
 - 📧 Email: [wahyusudrajad18@gmail.com](mailto:wahyusudrajad18@gmail.com)
 
 ---
