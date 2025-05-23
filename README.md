@@ -1,7 +1,11 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRkcHRxcW05aW0yMmVqd2Q3Zzk1Y2FiZ2M5eHlpMDJ1bnRid3FwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIl0CL2kd7sICgfqk0/giphy.gif" alt="Wahyu Sudrajad - Full-Stack Developer" width="100%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRkcHRxcW05aW0yMmVqd2Q3Zzk1Y2FiZ2M5eHlpMDJ1bnRid3FwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIl0CL2kd7sICgfqk0/giphy.gif" 
+    alt="Wahyu Sudrajad - Full-Stack Developer" 
+    style="max-width: 100%; height: auto; border-radius: 10px; object-fit: cover; max-height: 250px;"
+  />
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm Wahyu Sudrajad</h1>
 <h3 align="center">Full-Stack Developer | Student | Open Source Enthusiast 🚀</h3>
